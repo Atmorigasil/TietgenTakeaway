@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+        "username": "a",
+        "password": "a",
+        "orders": {
+            "number": 3242,
+            "price": 22.00,
+            "status": "Udleveret"
+            }
+        },
+        {
+        "username": "b",
+        "password": "b",
+        "orders": {
+            "number": 3242,
+            "price": 22.00,
+            "status": "Udleveret"
+            }
+        }
+    ]
+}
